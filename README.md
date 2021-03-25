@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I'm currently learning Cloud Services
-- 😄 FullStackOverFlow's my last name
+- 😄 Stack OverFlow's my last name
 - ⚡ I'm graduated in Business Management
 
 
